@@ -30,7 +30,7 @@ Controla el tiempo de juego diario por jugador. Incluye HUD en BossBar/ActionBar
   - None (oculto)
 - Comandos para sumar, establecer y descontar tiempo.
 - Reset diario con procesamiento incremental en lotes para evitar tirones.
-- Lista de bypass (antes “immune”) para permitir entrar o contar tiempo distinto.
+- Lista de bypass para jugadores selectos.
 - Autocompletado:
   - `reset offline`: sugiere nombres/UUIDs de jugadores offline conocidos.
   - `bypass add/remove`: sugiere jugadores conocidos y entradas actuales de bypass.
