@@ -23,7 +23,7 @@ Controla el tiempo de juego diario por jugador. Incluye HUD en BossBar/ActionBar
 ---
 
 ## Características
-- Tiempo diario por jugador con decremento automático.
+- Tiempo diario por jugador con automático.
 - HUD configurable:
   - BossBar (barra superior)
   - ActionBar (texto sobre la hotbar)
