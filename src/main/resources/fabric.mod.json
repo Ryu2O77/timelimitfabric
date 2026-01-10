@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "timelimitmod",
+  "version": "1.0.0-dev",
+  "name": "TimeLimit Mod",
+  "description": "Daily playtime limit with per-player HUD (BossBar/ActionBar/NONE) and daily reset.",
+  "environment": "server",
+  "entrypoints": {
+    "server": [
+      "com.ryu.timelimit.TimeLimitMod"
+    ]
+  },
+  "mixins": [
+    "timelimit.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.0",
+    "java": ">=17"
+  }
+}
