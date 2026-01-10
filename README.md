@@ -19,7 +19,7 @@ Player:
 - `/timelimit hud bossbar|actionbar|none` — Set your own HUD.
 - `/timelimit nextreset` — Show next reset timestamp and countdown.
 
-Admin (requires `timelimit.admin` or operator):
+Admin (requires operator or `timelimit.admin`):
 - `/timelimit admin hud <targets> bossbar|actionbar|none` — Apply HUD mode to targets.
 - `/timelimit admin setremaining <targets> <duration>` — Set remaining time.
 - `/timelimit admin add <targets> <duration>` — Add time.
